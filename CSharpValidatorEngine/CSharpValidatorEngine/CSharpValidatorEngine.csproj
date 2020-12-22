@@ -48,6 +48,7 @@
     <Compile Include="ValidationEngine\DataStructures\FieldComparison.cs" />
     <Compile Include="ValidationEngine\DataStructures\ValidationResult.cs" />
     <Compile Include="ValidationEngine\Engine\Rule.cs" />
+    <Compile Include="ValidationEngine\Engine\RuleSet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
