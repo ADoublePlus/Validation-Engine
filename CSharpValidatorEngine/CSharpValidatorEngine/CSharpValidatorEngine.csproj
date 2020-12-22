@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ValidationEngine\DataStructures\ComparableProperty.cs" />
+    <Compile Include="ValidationEngine\DataStructures\FieldComparison.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
