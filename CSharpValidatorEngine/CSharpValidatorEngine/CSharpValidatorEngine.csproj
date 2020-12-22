@@ -49,6 +49,7 @@
     <Compile Include="ValidationEngine\DataStructures\ValidationResult.cs" />
     <Compile Include="ValidationEngine\Engine\Rule.cs" />
     <Compile Include="ValidationEngine\Engine\RuleSet.cs" />
+    <Compile Include="ValidationEngine\Engine\Validator.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
