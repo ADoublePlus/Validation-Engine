@@ -54,6 +54,7 @@
     <Compile Include="ValidationEngine.Tests\Helpers\DummyEntities.cs" />
     <Compile Include="ValidationEngine.Tests\RuleSetTest.cs" />
     <Compile Include="ValidationEngine.Tests\RuleTest.cs" />
+    <Compile Include="ValidationEngine.Tests\ValidatorTest.cs" />
     <Compile Include="ValidationEngine\DataStructures\ComparableProperty.cs" />
     <Compile Include="ValidationEngine\DataStructures\FieldComparison.cs" />
     <Compile Include="ValidationEngine\DataStructures\ValidationResult.cs" />
